@@ -12,7 +12,7 @@ create a song site to auto play on your phone
     <h1>🎵 My Song</h1>
 
     <audio controls>
-        <source src="https://drive.google.com/uc?export=download&id=1q76MJzW0JjL4dyhQZAenBhcx_8uNgumk" type="audio/mpegsupport the audio element.
+        <source src="https://drive.google.com/file/d/1q76MJzW0JjL4dyhQZAenBhcx_8uNgumk/view?usp=sharing" type="audio/mpegsupport the audio element.
     </audio>
 
 </body>
